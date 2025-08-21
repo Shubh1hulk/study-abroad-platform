@@ -1,5 +1,7 @@
 {
-  "name": "fusion-starter",
+  "name": "study-abroad-platform",
+  "version": "1.0.0",
+  "description": "A comprehensive study abroad consultancy platform for international education guidance",
   "private": true,
   "type": "module",
   "pkg": {
