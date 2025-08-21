@@ -1,8 +1,8 @@
-# 🌟 Foreign Jao Clone - Study Abroad Platform
+# 🌟 Study Abroad Platform - International Education Hub
 
-A pixel-perfect clone of the Foreign Jao homepage built with modern web technologies. This project replicates the complete user experience of a study abroad consultancy platform with interactive features and responsive design.
+A comprehensive study abroad consultancy platform built with modern web technologies. This platform provides students with expert guidance, university selection tools, and complete support for their international education journey.
 
-![Foreign Jao Clone](https://img.shields.io/badge/Status-Live-brightgreen)
+![Study Abroad Platform](https://img.shields.io/badge/Status-Live-brightgreen)
 ![React](https://img.shields.io/badge/React-18.x-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-cyan)
@@ -13,16 +13,16 @@ Visit the live site: `http://localhost:8081/` (when running locally)
 
 ## ✨ Features
 
-### 🎯 Exact Foreign Jao Homepage Replica
-- **"We Give You Wings"** hero section with animated gradients
-- **Interactive dropdown sidebar** that appears on scroll
-- **University listings** with high-quality images and detailed cards
-- **Country flags** with university counts (USA, UK, Canada, Australia, etc.)
-- **Student success stories** with testimonials and achievements
-- **Expert consultants** section with profiles and ratings
-- **Study abroad tools** (University Finder, Cost Calculator, Document Checker)
-- **Blog articles** with categories and author information
-- **Comprehensive footer** with newsletter signup
+### 🎯 Complete Study Abroad Platform
+- **"We Give You Wings"** inspiring hero section with animated gradients
+- **Interactive dropdown sidebar** with comprehensive navigation
+- **University listings** with detailed information and high-quality images
+- **Global destinations** with country-specific university counts
+- **Student success stories** with authentic testimonials and achievements
+- **Expert consultants** section with professional profiles and ratings
+- **Comprehensive study tools** (University Finder, Cost Calculator, Document Checker)
+- **Educational blog** with expert articles and guidance
+- **Professional footer** with newsletter and contact information
 
 ### 🔥 Interactive Elements
 - **Smooth scroll-triggered sidebar** with dropdown navigation
@@ -56,8 +56,8 @@ Visit the live site: `http://localhost:8081/` (when running locally)
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/foreign-jao-clone.git
-   cd foreign-jao-clone
+   git clone https://github.com/Shubh1hulk/study-abroad-platform.git
+   cd study-abroad-platform
    ```
 
 2. **Install dependencies**
@@ -85,13 +85,13 @@ Visit the live site: `http://localhost:8081/` (when running locally)
 ## 📁 Project Structure
 
 ```
-vibe-haven/
+study-abroad-platform/
 ├── client/                 # Frontend React application
 │   ├── components/         # Reusable UI components
 │   │   ├── Header.tsx      # Main navigation header
 │   │   └── ui/            # Shadcn/ui components
 │   ├── pages/             # Route components
-│   │   ├── Index.tsx      # Homepage (Foreign Jao clone)
+│   │   ├── Index.tsx      # Homepage (Main platform page)
 │   │   └── NotFound.tsx   # 404 page
 │   ├── hooks/             # Custom React hooks
 │   ├── lib/               # Utility functions
@@ -107,13 +107,13 @@ vibe-haven/
 Interactive dropdown component for the floating sidebar navigation.
 
 ### Hero Section
-Animated hero section with "We Give You Wings" tagline and call-to-action buttons.
+Inspiring hero section with "We Give You Wings" tagline and call-to-action buttons.
 
 ### University Cards
-Detailed university information cards with images, rankings, and program details.
+Comprehensive university information cards with images, rankings, and program details.
 
 ### Student Stories
-Testimonial cards showcasing successful student journeys.
+Authentic testimonial cards showcasing successful student journeys.
 
 ### Expert Consultants
 Professional profiles of education consultants with ratings and specializations.
@@ -186,14 +186,15 @@ Create a `.env` file in the root directory:
 
 ## 📝 License
 
-This project is for educational purposes. All design credits go to the original Foreign Jao website.
+This project is open source and available under the MIT License.
 
 ## 🙏 Acknowledgments
 
-- **Foreign Jao** for the original design inspiration
+- **Modern Web Technologies** for enabling this comprehensive platform
 - **Tailwind CSS** for the utility-first styling approach
 - **Lucide React** for beautiful icons
 - **Shadcn/ui** for component primitives
+- **React Community** for continuous innovation
 
 ## 📞 Contact
 
@@ -201,4 +202,4 @@ For any questions or feedback, please open an issue on GitHub.
 
 ---
 
-**Made with ❤️ and modern web technologies**
+**Built with ❤️ and cutting-edge web technologies**
